@@ -1,0 +1,84 @@
+public class GetterSetter {
+
+ //  get   class da n ( basta private olmak uzere) bir varibale getirmeye yarar
+ //  set   clss icerisinde bir degiskeni kulanicinin degistirmesine izin verir
+ //  get- set     kullanicin bir degiskeni hem degistirmesine hem de getirmesine imkna tanir
+    
+    
+   private  String name ='Ahmet';
+    
+   
+     public String getName() {
+         return name;
+     }
+    
+  // 1. yontem
+  public string isim = 'Resul';
+    
+   public String getIsim() {
+         return isim;
+     } 
+    
+    public VOID setIsim ( string ad) {
+        
+      isim = ad ;        
+    }
+    
+ // 2. yontem   
+    
+    public static Integer userinput{get; set;}
+    
+    
+// 3. yontem   
+    
+    private static integer StaticMember=2;
+     
+   public static integer MyGoodStaticProp { 
+     get {return StaticMember;} 
+     set { StaticMember = value; } 
+   }   
+    
+    
+}
+
+
+//  anoynous window
+
+
+// get ornegi
+
+GetterSetter ornek = new GetterSetter();
+
+
+// system.debug(ornek.name ) ;
+
+system.debug(ornek.getName()); // Ahmet
+
+
+
+// get set birlikte
+
+GetterSetter ornek2 = new GetterSetter();
+
+system.debug('onceki isim >> '+ ornek2.getIsim()); // onceki isim >> Resul
+
+ornek2.setIsim('MAHMUT');
+
+system.debug('SONRAKI isim >> '+ ornek2.getIsim()); // SONRAKI isim >> MAHMUT
+
+//  2. yontem ornegi
+
+GetterSetter.userinput = 5 ;
+
+system.debug( GetterSetter.userinput) ; // 5
+
+// 3. yontem
+system.debug(' StaticMember >>  ' + GetterSetter.MyGoodStaticProp ); // StaticMember >> 2 
+
+GetterSetter.MyGoodStaticProp = 19 ;
+system.debug(' StaticMember >>  ' + GetterSetter.MyGoodStaticProp ); // StaticMember >>  19
+
+
+
+
+
