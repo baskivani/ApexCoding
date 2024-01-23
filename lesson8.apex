@@ -1,4 +1,4 @@
-//  SET  
+//  SET  ve MAP Olusturma
 // SET olusturma sekli
 SET<integer> sayilar = new SET<integer>();
 sayilar.add(5);
