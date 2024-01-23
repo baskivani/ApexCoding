@@ -1,4 +1,4 @@
-// Liste Olusturma Sekli
+// Liste Olusturma Sekli, Liste Methodlari ve For Each Loop Kullanimi
 list<integer> sayilar = new List<integer>();
 
 sayilar.add(5);
