@@ -1,4 +1,4 @@
-// String Methodlari
+// String Methodlari En cok kullanilanlar
 /*
 COK KULLANILAN STRING METHODLARI
 toUpperCase()
