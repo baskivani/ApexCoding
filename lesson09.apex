@@ -1,3 +1,4 @@
+// For Loop, While Loop ve Do While Loop
 //1)for-loop       %20
 //2)while-loop     %1
 //3)do-while-loop   %4

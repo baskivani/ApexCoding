@@ -1,4 +1,4 @@
-// if statement
+// If Statement, Ternary ve Switch On
 /*
 IF ( sart  ) {
     

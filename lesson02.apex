@@ -1,3 +1,4 @@
+// String Methodlari
 /*
 COK KULLANILAN STRING METHODLARI
 toUpperCase()
