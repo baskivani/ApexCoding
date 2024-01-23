@@ -1,4 +1,4 @@
-// Giris
+// Apex'e Giris - Integer ve String
 integer num;
 system.debug('Previous status=' + num);
 num=10;

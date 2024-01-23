@@ -1,4 +1,4 @@
-// Getter Setter 
+// Getter ve Setter 
 public class GetterSetter {
 
  //  get   class da n ( basta private olmak uzere) bir varibale getirmeye yarar

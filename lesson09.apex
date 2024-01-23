@@ -1,4 +1,4 @@
-// For Loop, While Loop ve Do While Loop
+// For Loop, While Loop ve Do While Loop olusturma
 //1)for-loop       %20
 //2)while-loop     %1
 //3)do-while-loop   %4
