@@ -1,4 +1,4 @@
-// If Statement, Ternary ve Switch On
+// If Statement, Ternary ve Switch On Kullanimi
 /*
 IF ( sart  ) {
     
