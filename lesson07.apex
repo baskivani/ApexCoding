@@ -1,5 +1,4 @@
-
-// liste olusturma sekli
+// Liste Olusturma Sekli
 list<integer> sayilar = new List<integer>();
 
 sayilar.add(5);
