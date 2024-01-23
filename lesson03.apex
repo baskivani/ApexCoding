@@ -1,3 +1,4 @@
+// Data Tipleri ve Atama Operatorleri
 /*
 
 = 	x = y    Assignment operator 
