@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // Inheritance 
 public  VIRTUAL    class Hayvan {
     // VIRTUAL demek parent olabilirim 
